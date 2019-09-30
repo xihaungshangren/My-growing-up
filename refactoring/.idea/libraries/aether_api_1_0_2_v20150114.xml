@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aether-api-1.0.2.v20150114">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter1/lib/aether-api-1.0.2.v20150114.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
