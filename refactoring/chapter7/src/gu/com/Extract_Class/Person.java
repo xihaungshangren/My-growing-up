@@ -1,4 +1,19 @@
 package gu.com.Extract_Class;
 
-public class Person {
+ class Person {
+    private String name;
+    private TelephoneNumber officeTelephone = new TelephoneNumber();
+
+    public String getName() {
+        return name;
+    }
+
+    public String getTelephoneNumber() {
+        return officeTelephone.getTelephoneNumber();
+    }
+
+    TelephoneNumber getOfficeTelephone(){
+        return officeTelephone;
+    }
+
 }
