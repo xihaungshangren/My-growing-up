@@ -1,6 +1,7 @@
-package gu;
+package gu.no01;
 
 import com.sun.org.apache.xalan.internal.xsltc.dom.SingletonIterator;
+import gu.no01.Foo;
 
 public class Student {
     String name;

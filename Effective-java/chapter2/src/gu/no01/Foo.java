@@ -1,4 +1,4 @@
-package gu;
+package gu.no01;
 
 import java.util.HashMap;
 import java.util.Map;
